@@ -7,7 +7,6 @@
   Goal: Become a successful Project Manager
 </p>
 
----
 
 <h3>About Me</h3>
 <ul>
@@ -21,8 +20,7 @@
 
 <h3> Projects</h3>
 <p>
-  🔹 Explore my work here:<br>
-  <a href="https://github.com/Dinu-Sathsarani-Ranasingha">My GitHub Profile</a>
+  🔹 Explore my work here: <a href="https://github.com/Dinu-Sathsarani-Ranasingha">My GitHub Profile</a>
 </p>
 
 ---
