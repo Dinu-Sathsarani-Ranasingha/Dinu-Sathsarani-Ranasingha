@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Dinu-Sathsarani-Ranasingha/Dinu-Sathsarani-Ranasingha/blob/main/banner.jpeg" alt="Banner" width="100%">
-</p>
-<h1 align="center">Hi 👋, I'm Dinu Sathsarani Ranasingha</h1>
+<h1 align="center">Hi , I'm Dinu</h1>
 <h3 align="center">Aspiring Business Analyst | Future Project Manager</h3>
 
 <p align="center">
@@ -14,15 +11,15 @@
 
 <h3>📌 About Me</h3>
 <ul>
-  <li>🎓 IT Student</li>
-  <li>📊 Interested in Business Analysis & Project Management</li>
-  <li>🛠️ Working on academic and real-world projects</li>
-  <li>🤝 Open to collaboration and learning opportunities</li>
+  <li>IT Student</li>
+  <li>Interested in Business Analysis & Project Management</li>
+  <li> Working on academic and real-world projects</li>
+  <li>Open to collaboration and learning opportunities</li>
 </ul>
 
 ---
 
-<h3>🚀 Projects</h3>
+<h3> Projects</h3>
 <p>
   🔹 Explore my work here:<br>
   <a href="https://github.com/Dinu-Sathsarani-Ranasingha">My GitHub Profile</a>
@@ -36,6 +33,9 @@
   ✔️ System Analysis<br>
   ✔️ Team Collaboration<br>
   ✔️ Basic Web Development<br>
+</p>
+<p align="center">
+  <img src="https://github.com/Dinu-Sathsarani-Ranasingha/Dinu-Sathsarani-Ranasingha/blob/main/banner.jpeg" alt="Banner" width="100%">
 </p>
 
 ---
