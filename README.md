@@ -1,15 +1,15 @@
-<h1 align="center">Hi , I'm Dinu</h1>
+<h1 align="center">Hi , I'm Dinu Sathsarani Ranasingha</h1>
 <h3 align="center">Aspiring Business Analyst | Future Project Manager</h3>
 
 <p align="center">
-  💡 Passionate about problem-solving, system analysis, and project coordination<br>
-  🚀 Currently building skills in Software Development & Business Analysis<br>
-  🎯 Goal: Become a successful Project Manager
+  Passionate about problem-solving, system analysis, and project coordination<br>
+  Currently building skills in Software Development & Business Analysis<br>
+  Goal: Become a successful Project Manager
 </p>
 
 ---
 
-<h3>📌 About Me</h3>
+<h3>About Me</h3>
 <ul>
   <li>IT Student</li>
   <li>Interested in Business Analysis & Project Management</li>
@@ -27,7 +27,7 @@
 
 ---
 
-<h3>🧠 Skills</h3>
+<h3>Skills</h3>
 <p>
   ✔️ Problem Solving<br>
   ✔️ System Analysis<br>
