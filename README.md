@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dinu-Sathsarani-Ranasingha/Dinu-Sathsarani-Ranasingha/main/banner.png" alt="Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Dinu Sathsarani Ranasingha</h1>
 <h3 align="center">Aspiring Business Analyst | Future Project Manager</h3>
 
