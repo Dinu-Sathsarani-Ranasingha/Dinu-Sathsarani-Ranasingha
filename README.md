@@ -206,7 +206,7 @@ Quote    : "I bridge the gap between business problems and technical solutions."
 <a href="https://www.linkedin.com/in/dinu-sathsarani-ranasingha">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
-<a href="https://www.youtube.com/@ProjectVerse">
+<a href="https://www.youtube.com/@ProjectVerse323">
   <img src="https://img.shields.io/badge/YouTube-ProjectVerse-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>&nbsp;
 <a href="https://www.instagram.com/dinu__3_23">
