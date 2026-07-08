@@ -24,7 +24,6 @@ Name     : Dinu Sathsarani Ranasingha
 Degree   : BSc (Hons) IT — Information Systems Engineering @ SLIIT (Year 3)
 Focus    : Business Analysis · Project Management · Data Analytics
 Seeking  : Business Analyst / Project Manager Internship
-Targets  : Microsoft · WSO2 · IFS
 Side Work: Freelance Data Analyst @ Upwork
 Content  : YouTube — ProjectVerse (coding, BA & data tutorials)
 Quote    : "I bridge the gap between business problems and technical solutions."
