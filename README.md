@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/Dinu-Sathsarani-Ranasingha/Dinu-Sathsarani-Ranasingha/blob/main/banner.jpeg" alt="Dinu Sathsarani Ranasingha" width="100%" style="border-radius:14px"/>
-
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Dinu+%F0%9F%91%8B;Aspiring+Business+Analyst;Future+Project+Manager;AI+%2B+BA+%2B+Full-Stack+Builder" alt="Typing SVG"/>
 
 <br/><br/>
@@ -16,6 +12,10 @@
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dinu-Sathsarani-Ranasingha&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/><br/>
+
+<img src="https://github.com/Dinu-Sathsarani-Ranasingha/Dinu-Sathsarani-Ranasingha/blob/main/banner.jpeg" alt="Dinu Sathsarani Ranasingha" width="100%" style="border-radius:14px"/>
 
 </div>
 
@@ -33,81 +33,6 @@ Side Work: Freelance Data Analyst @ Upwork
 Content  : YouTube — ProjectVerse (coding, BA & data tutorials)
 Quote    : "I bridge the gap between business problems and technical solutions."
 ```
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 MeetingMind AI
-**Meeting Productivity Analyzer**
-
-> AI system that analyzes meeting notes, extracts action items, scores effectiveness (0–100), and detects recurring issues — built for enterprise teams at Microsoft, WSO2 & IFS.
-
-**What I built:**
-- 📋 Full BA document — AS-IS/TO-BE, BPMN, stakeholder analysis, requirements, risk register
-- 🧠 Python NLP engine — action extractor, scorer, pattern detector
-- ⚙️ Flask REST API — 13 endpoints, JWT auth · **13/13 tests ✅**
-- 📊 React dashboard — 4 screens, live charts, action tracker
-
-<br/>
-
-**Tech Stack:**
-
-<img src="https://skillicons.dev/icons?i=python,flask,react,js,mongodb,github&theme=dark"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/NLTK-NLP%20Engine-3B7A57?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-Auth-FB7A24?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Recharts-Visualization-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/bcrypt-Security-grey?style=flat-square&logo=letsencrypt&logoColor=white"/>
-<img src="https://img.shields.io/badge/BPMN-Process%20Modeling-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
-<br/><br/>
-
-[![View Repo](https://img.shields.io/badge/View%20on%20GitHub-meetingmind--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dinu-Sathsarani-Ranasingha/meetingmind-ai)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 E-Commerce Sales Dashboard
-**Sales Performance Analyzer**
-
-> End-to-end sales analytics on the Kaggle Superstore dataset — surfacing $2.3M revenue KPIs, regional breakdowns & profit insights through Python, SQL & Power BI.
-
-**What I built:**
-- 🔍 EDA with Python & Pandas — trends, outliers, patterns
-- 🗄️ SQL analysis via SQLite — revenue, profit, category KPIs
-- 📈 Interactive Power BI dashboard with DAX measures
-- 📁 Fully documented & published on GitHub
-
-<br/>
-
-**Tech Stack:**
-
-<img src="https://skillicons.dev/icons?i=python,sqlite,github&theme=dark"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-Calculations-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-Measures-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Jupyter-EDA%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-Charts-11557C?style=flat-square&logo=python&logoColor=white"/>
-
-<br/><br/>
-
-[![View Repo](https://img.shields.io/badge/View%20on%20GitHub-E--Commerce--Dashboard-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dinu-Sathsarani-Ranasingha/E-COMMERCE_SALES_PERFORMANCE_DASHBOARD)
-
-</td>
-</tr>
-</table>
 
 ---
 
