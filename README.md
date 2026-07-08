@@ -7,15 +7,11 @@
 <a href="https://www.linkedin.com/in/dinu-sathsarani-ranasingha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/Dinu-Sathsarani-Ranasingha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 <a href="https://www.instagram.com/dinu__3_23"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
-<a href="https://www.youtube.com/@ProjectVerse"><img src="https://img.shields.io/badge/ProjectVerse-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/@ProjectVerse323"><img src="https://img.shields.io/badge/ProjectVerse-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dinu-Sathsarani-Ranasingha&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/><br/>
-
-<img src="https://github.com/Dinu-Sathsarani-Ranasingha/Dinu-Sathsarani-Ranasingha/blob/main/banner.jpeg" alt="Dinu Sathsarani Ranasingha" width="100%" style="border-radius:14px"/>
 
 </div>
 
@@ -223,6 +219,10 @@ Quote    : "I bridge the gap between business problems and technical solutions."
 ---
 
 <div align="center">
+<br/><br/>
+
+<img src="https://github.com/Dinu-Sathsarani-Ranasingha/Dinu-Sathsarani-Ranasingha/blob/main/banner.jpeg" alt="Dinu Sathsarani Ranasingha" width="100%" style="border-radius:14px"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=✨+Learning%2C+Growing%2C+and+Leading+towards+the+future+✨;Open+to+BA+%2F+PM+Internship+Opportunities+🚀;Let's+build+something+meaningful+together!" alt="Footer Typing"/>
 
